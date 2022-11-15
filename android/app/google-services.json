@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "113986626395",
+    "project_id": "donor-darah-f3f8b",
+    "storage_bucket": "donor-darah-f3f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113986626395:android:3980f9316094c1423ab07e",
+        "android_client_info": {
+          "package_name": "com.dedek.donor_darah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113986626395-0u6rbssdar2ldivgukuh206ovvuplp4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZlQeNLq7bgnHl2uVclYeuqOL1Q6blv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113986626395-0u6rbssdar2ldivgukuh206ovvuplp4t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113986626395-pq2ag0dduosaie903ct4smf1s20n37t0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dedek.donorDarah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
